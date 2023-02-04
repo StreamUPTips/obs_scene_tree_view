@@ -1,8 +1,8 @@
 # We Forked this because we wanted to upload a release of the latest source version that coincidentally working with Vertical OBS.
 ## This Repo will be archived / deleted when the original author updates the plugin by himself.
-
-
-
+  
+  
+  
 # Scene Tree Folder plugin for OBS Studio
 
 Plugin for OBS that adds a scene tree folder dock
